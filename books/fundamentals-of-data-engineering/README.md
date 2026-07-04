@@ -1,5 +1,7 @@
 # Fundamentals of Data Engineering
 
+<img src="cover.jpg" alt="Fundamentals of Data Engineering book cover" width="240">
+
 Notes from Joe Reis and Matt Housley, *Fundamentals of Data Engineering: Plan and Build Robust Data Systems*.
 
 ## Why This Book Matters
@@ -25,4 +27,3 @@ This book is useful because it frames data engineering as a lifecycle discipline
 ## Portfolio Signal
 
 This note supports senior/staff data engineering positioning because it emphasizes architecture, lifecycle ownership, platform trade-offs, DataOps, governance, and business-facing data products.
-
