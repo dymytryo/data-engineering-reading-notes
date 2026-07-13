@@ -9,6 +9,7 @@ This repository is intentionally organized as a reading and interview-prep refer
 | Book | Focus | Notes |
 | --- | --- | --- |
 | Fundamentals of Data Engineering | Data engineering lifecycle, architecture, ingestion, transformation, serving, DataOps, governance | [Book notes](books/fundamentals-of-data-engineering/README.md) |
+| Data Mining for Business Analytics (Python) | Data mining process, partitioning, model evaluation, linear and logistic regression, k-NN, discriminant analysis, association rules | [Book notes](books/data-mining-for-business-analytics/README.md) |
 
 ## Note Pattern
 
